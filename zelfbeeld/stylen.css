@@ -1,0 +1,44 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+
+h3 {
+  color: orange;
+  text-align: left;
+  margin-left: 5px;
+  margin-top: 35px;
+  float: left;
+}
+
+#stage {
+  position: absolute;
+  top: 0;
+  height: 700px;
+  width: 1000px;
+  background-image: url("image/HD-wallpaper-polar-lights-northern-lights-natural-phenomenon-north-night-mountains-aurora-borealis-earth.jpg");
+  background-repeat: no-repeat;  
+  background-size: contain;
+}
+
+#zichzelf {
+  position: absolute;
+  top: 385px;
+  left: 100px;
+  width: 90px;
+  height: 120px;
+  background-image: url("image/minecraftskinspeigelbeeld.png");
+  background-repeat: no-repeat;  
+  background-size: contain;
+}
+
+#banana {
+  position: absolute;
+  top: 430px;
+  left: 550px;
+  width: 50px;
+  height: 55px;
+  background-image: url("image/Zelfbeeld-1.jpg");
+  background-repeat: no-repeat;  
+  background-size: contain;
+}
